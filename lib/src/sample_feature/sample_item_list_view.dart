@@ -11,7 +11,9 @@ class SampleItemListView extends StatelessWidget {
     this.items = const [
       SampleItem("Atlanta"),
       SampleItem("NYC"),
-      SampleItem("Austin")
+      SampleItem("Austin"),
+      SampleItem("Orlando"),
+      SampleItem("Las Vegas")
       // Chris, add new city here
     ],
   });
